@@ -32,6 +32,11 @@ SECRET_KEY = config('SECRET_KEY')
 DEBUG = config('DEBUG', cast=bool)
 ALLOWED_HOSTS = ['*']
 
+# # +++ pythonanywhere 전용
+# ALLOWED_HOSTS = [
+#     'Devyang.pythonanywhere.com'
+# ] # 이 주소가 아니라 다른 주소로 접근하면 막을 수 있도록 
+
 
 # Application definition
 
