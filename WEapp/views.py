@@ -5,11 +5,13 @@ import requests
 from django.shortcuts import render
 from django.http import HttpResponse
 
-from decouple import config
+# from decouple import config
 
-REST_API_KEY = config('REST_API_KEY')
+# REST_API_KEY = config('REST_API_KEY')
+# APPKEY = config('APPKEY')
 
-APPKEY = config('APPKEY')
+REST_API_KEY = "b99712a0fe7d08fc13dcc9613be9bb15"
+APPKEY = "d1226d2eaf8146caf0e412f6158a8dbc"
 
 
 with open('./WEapp/data/placename.json', 'r', encoding='UTF8') as f:
