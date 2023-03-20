@@ -32,7 +32,7 @@ packaging==21.3
 pandas==1.5.1
 Pillow==9.2.0
 # pluggy @ file:///C:/ci/pluggy_1648024580010/work
-pycairo==1.21.0
+# pycairo==1.21.0
 pycodestyle==2.9.1
 # pycosat @ file:///C:/b/abs_4b1rrw8pn9/croot/pycosat_1666807711599/work
 # pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
