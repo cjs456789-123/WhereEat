@@ -36,7 +36,7 @@ pycairo==1.21.0
 pycodestyle==2.9.1
 # pycosat @ file:///C:/b/abs_4b1rrw8pn9/croot/pycosat_1666807711599/work
 # pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
-PyGObject==3.42.2
+# PyGObject==3.42.2
 PyMySQL==1.0.2
 # pyOpenSSL @ file:///C:/b/abs_552w85x1jz/croot/pyopenssl_1677607703691/work
 pyparsing==3.0.9
