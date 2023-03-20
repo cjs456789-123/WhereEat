@@ -32,7 +32,7 @@ SECRET_KEY = 'django-insecure-t!q)vhe@pb-be66wey_6szs*-ai-ud18j37=z&=3)nkty)21$%
 # +++ Employ Mode +++
 # DEBUG = config('DEBUG', cast=bool)
 DEBUG = False
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = [".ap-northeast-2.compute.amazonaws.com"]
 
 # # +++ pythonanywhere 전용
 # ALLOWED_HOSTS = [
